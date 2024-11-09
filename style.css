@@ -1,0 +1,144 @@
+.main-banner {
+    background-color: #f7f7f7;
+    padding: 100px 0;
+    text-align: left;
+}
+
+.main-banner .caption h6 {
+    font-size: 18px;
+    color: #5647ff;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.main-banner .caption h4 {
+    font-size: 48px;
+    color: #333;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.main-banner .caption h4 em {
+    color: #ff6347;
+    font-style: normal;
+}
+
+.main-banner .caption h4 span {
+    color: #ff6347;
+    font-weight: 400;
+}
+
+.main-banner .line-dec {
+    width: 60px;
+    height: 4px;
+    background-color: #ff6347;
+    margin-bottom: 30px;
+}
+
+.main-banner .caption p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.main-banner .caption a {
+    font-size: 16px;
+    color: #ff6347;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.main-button a {
+    display: inline-block;
+    background-color: #ff6347;
+    color: #fff;
+    padding: 10px 30px;
+    border-radius: 50px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.main-button a:hover {
+    background-color: #e5533f;
+}
+
+/* Container Banner Section */
+.container-banner {
+    background-color: #6c757d;
+    border-radius: 10px;
+}
+
+.container-banner h1.display-3 {
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.container-banner .text-white {
+    color: #fff !important;
+}
+
+.container-banner .text-dark {
+    color: #333 !important;
+}
+
+.container-banner p {
+    font-size: 18px;
+    color: #666;
+}
+
+.banner-btn {
+    display: inline-block;
+    background-color: transparent;
+    color: #333;
+    border: 2px solid #fff;
+    padding: 10px 30px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 50px;
+}
+
+.banner-btn:hover {
+    background-color: #fff;
+    color: #6c757d;
+}
+
+.position-relative img {
+    border-radius: 10px;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+}
+
+.position-absolute {
+    position: absolute !important;
+}
+
+.d-flex {
+    display: flex !important;
+}
+
+.align-items-center {
+    align-items: center !important;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0;
+}
+
+h2, h4 {
+    margin: 0;
+}
+
+
+
+
